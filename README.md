@@ -43,5 +43,5 @@ To run this project, you'll need to have Python installed along with the followi
 - matplotlib (optional, for data visualization)
 
 ## Acknowledgements
--The Iris dataset was introduced by Sir Ronald A. Fisher in his 1936 paper "The use of multiple measurements in taxonomic problems".
--This project uses the scikit-learn library, which provides simple and efficient tools for data mining and data analysis.
+The Iris dataset was introduced by Sir Ronald A. Fisher in his 1936 paper "The use of multiple measurements in taxonomic problems".//
+This project uses the scikit-learn library, which provides simple and efficient tools for data mining and data analysis.
